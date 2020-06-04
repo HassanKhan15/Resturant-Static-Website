@@ -1,0 +1,171 @@
+.navbar{
+    background-color: #800000 !important;
+    
+}
+
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main1{
+    color: black;
+    display: flex !important;
+    float: right;
+    padding: 15px;
+    
+}
+
+.main2{
+    margin-top: 70px;
+}
+
+.mainpart2{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.h1{
+    color: red;
+    font-family: 'Satisfy', cursive;
+}
+
+.h4{
+    color: gray;
+}
+.black{
+    color: black;
+}
+
+.main4{
+    margin-top: 120px;
+}
+
+.part3{
+    text-align: center;
+    color: red;
+    font-weight: lighter;
+    font-family: 'Satisfy', cursive;
+}
+
+.main5{
+    margin-top: 50px;
+}
+
+.part4{
+    font-weight: bold;
+    color: gray;
+}
+
+.main8{
+    background-color: black;
+    margin-top: 30px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#ffff;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.main9{
+    margin-top: 30px;
+}
+
+.part6{
+    text-align: center;
+}
+
+.main10{
+    
+    margin-top: 30px;
+    background-color: black;
+    text-align: center;
+    
+}
+
+.part7{
+    padding-top: 20px;
+    
+   
+}
+.white{
+    color: white;
+   
+}
+
+.none{
+    text-decoration: none !important;
+    color: white;
+}
+
+.fa-facebook-official, .fa-twitter, .fa-instagram, .fa-whatsapp, .fa-map-marker, .fa-envelope, .fa-mobile, .fa-clock-o{
+    font-size: 20px !important;
+    color: white;
+    text-decoration: none !important;
+    padding: 15px;
+    
+}
+
+.part8{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.menutitle{
+    margin-top: 30px;
+    text-align: center;
+    color: black;
+}
+
+.menucard{
+    margin-top: 20px;
+    display: flex;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: red;
+    border: black;
+    text-align: center !important;
+    
+}
+
+
+.gbg{
+    background-color: black;
+}
+
+
+
+.white1{
+    color: white;
+}
+
+.contact{
+   margin-top: 50px;
+}
+
+.address{
+    text-align: center;
+    color: #800000;
+}
+
+.contact2{
+    margin-top: 50px;
+}
